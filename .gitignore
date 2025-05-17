@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+.env
+venv/
+.envrc
+.DS_Store
+CNN-20250517T151445Z-1-001.zip
+LSTM-20250517T151445Z-1-001.zip
+
