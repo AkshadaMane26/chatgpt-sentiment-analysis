@@ -154,7 +154,7 @@ The report includes detailed comparisons of the training trials for both CNN and
 
 ## Dependencies
 
-To run the code in the `FinalChatGPT_SentimentAnalysis.ipynb` notebook, the following dependencies are required:
+To run the code in the `ChatGPT_SentimentAnalysis.ipynb` notebook, the following dependencies are required:
 
 - pandas
 - numpy
@@ -191,20 +191,3 @@ The results of this project will provide valuable insights into the sentiment di
 
 For a more detailed report with all the trials and results, please refer to the full project report, which includes comprehensive information on each phase, model performance, hyperparameter optimization, and evaluation metrics.
 
-## Contributing
-
-Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Your contributions can help enhance the Accuracies of models.
-
-## Team
-
-This Project was created by a Computer Engineering student passionate about AI and NLP:
-
-- [Akshada Mane](https://github.com/your-github-profile)
-
-## Acknowledgment
-
-This project is inspired by research in Natural Language Processing (NLP) and coursework projects. Special thanks to the academic community and mentors for guidance and motivation.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
